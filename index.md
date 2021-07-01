@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Kiko Online Shop
+
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](Picuture Will Be Here)
+
+
+We provide service to sell clothes online. You can contact us via [facebook](https://www.facebook.com/kikoonlineshop96)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kiko-online-shop/kiko-online-shop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,12 +27,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 - Bulleted
 - List
